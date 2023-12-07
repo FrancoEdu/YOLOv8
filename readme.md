@@ -26,6 +26,11 @@ source myenv/bin/activate  # No Windows, utilize "myenv\Scripts\activate"
 # Instale as dependências necessárias
 pip install -r requirements.txt
 ```
+Com os comando executados, basta rodar a aplicação:
+```bash
+# Iniciando a aplicação
+python main.py
+```
 
 ### Contribuindo
 Contribuições são bem-vindas! Se você encontrar problemas, 
